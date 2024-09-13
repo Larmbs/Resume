@@ -7,6 +7,8 @@
 | Address: | Website: |
 |||
 
+---
+
 Passionate about aerospace engineering and computer science, I have accumulated over 2.5 years of experience in the field of computer science. My interests span machine learning, low-level programming, and socket networking, and I have contributed to numerous open-source projects.
 
 ## Major Achievements
